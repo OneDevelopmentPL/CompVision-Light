@@ -14,3 +14,5 @@ It uses OpenCV in headless mode, so no GUI or Qt dependencies are required.
 
 Optional:
 - GPU support (CUDA) if available, but CPU mode works on any machine.
+
+- # See [QUICKSTART.md](QUICKSTART.md) (click) for tutorial
