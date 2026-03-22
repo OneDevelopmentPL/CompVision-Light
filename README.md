@@ -1,4 +1,4 @@
-# CompVision-Lighy
+# CompVision-Light
 
 Lightweight Computer Vision project using OpenCV and YOLOv8.
 
